@@ -19,8 +19,8 @@ Follow these steps to set up your environment and run the app.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smoking-activity-app.git
-cd smoking-activity-app
+git clone https://github.com/abhishekkrjha2811/YOLO-Based_Smoking_Activity_Detector.git
+cd YOLO-Based_Smoking_Activity_Detector
 ```
 
 ### 2. Create a Virtual Environment
