@@ -1,6 +1,14 @@
 # Smoking Activity Detection App
 
-A real-time detection system that identifies smoking activity by detecting both faces and cigarettes using a YOLO-based machine learning model.
+A real-time detection system that identifies smoking activity by detecting faces and cigarettes using a YOLO-based machine learning model.
+
+---
+
+## Demo
+
+![Demo GIF](smokingVideo.gif)
+
+*Real-time smoking activity detection in action*
 
 ---
 
